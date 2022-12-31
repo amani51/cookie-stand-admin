@@ -25,6 +25,6 @@ yarn dev
 There is NO tests for this lab 
 
 #### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/401-images-app/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/cookie-stand-admin/pull/1)
 
 
