@@ -1,4 +1,4 @@
-# LAB - Class 32
+# LAB - Class 32, class 33
 
 ## Project: Cookie Stand Admin
 
@@ -13,14 +13,11 @@
 For this lab I did not use .env 
 
 #### How to initialize/run your application (where applicable)
-
 ```bash
-npm run dev
-# or
-yarn dev
-```
-
-
+        npm run dev
+        # or
+        yarn dev
+    ```
 #### Tests
 There is NO tests for this lab 
 
