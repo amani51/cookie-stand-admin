@@ -17,11 +17,11 @@ For this lab I did not use .env
         npm run dev
         # or
         yarn dev
-    ```
+```
 #### Tests
 There is NO tests for this lab 
 
 #### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/cookie-stand-admin/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/cookie-stand-admin/pull/2)
 
 
