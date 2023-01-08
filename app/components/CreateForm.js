@@ -112,47 +112,6 @@ export default function CreateForm(props) {
           </div>
         </form>
       </section>
-      {/* <section>
-        <table className=" items-center pt-20 pr-48 pb-24 pl-16 gap-24 border-solid ml-40 my-20 ">
-          <thead>
-            <tr>
-              <th className="text-left p-3 text-xl bg-gray-700 text-white border-solid border-2 border-gray-400">
-                Location
-              </th>
-              <th className="text-left p-3 text-xl bg-gray-700 text-white border-solid border-2 border-gray-400">
-                Minimum Customers per Hour
-              </th>
-              <th className="text-left p-3 text-xl bg-gray-700 text-white border-solid border-2 border-gray-400">
-                Maximum Customers per Hour
-              </th>
-              <th className="p-3 text-xl bg-gray-700 text-white border-solid border-2 border-gray-400">
-                Average Cookies per Sale
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            {allOutputs.length > 0 &&
-              allOutputs.map((item) => {
-                return (
-                  <tr key={keyValue}>
-                    <td className="p-3 text-xl text-gray-700 border-solid border-2 border-gray-400">
-                      {item._location}
-                    </td>
-                    <td className="p-3 text-xl text-gray-700 border-solid border-2 border-gray-400">
-                      {item.min_customers}
-                    </td>
-                    <td className="p-3 text-xl text-gray-700 border-solid border-2 border-gray-400">
-                      {item.max_customers}
-                    </td>
-                    <td className="p-3 text-xl text-gray-700 border-solid border-2 border-gray-400">
-                      {item.avg_cookies}
-                    </td>
-                  </tr>
-                );
-              })}
-          </tbody>
-        </table>
-      </section> */}
     </div>
   );
 }
