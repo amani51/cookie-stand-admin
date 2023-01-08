@@ -19,7 +19,6 @@ export default function ThemeWrapper({ children }) {
 
   function initialThemeHandle() {
     const isDarkThemeLocal = JSON.parse(localStorage.getItem("mode"));
-    console.log(isDarkThemeLocal)
     if (!isDarkThemeLocal) {
       setIsDarkTheme(false);
       document.querySelector("body").classList.remove("dark");
