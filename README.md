@@ -8,6 +8,10 @@
 -  [Next.js](https://nextjs.org/)
 - [Tailwind](https://beta.nextjs.org/docs/styling/tailwind-css)
 
+### UserName and Password
+- username: Amani
+- password: amani
+
 
 #### `.env` requirements (where applicable)
 For this lab I did not use .env 
